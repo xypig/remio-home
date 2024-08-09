@@ -2,8 +2,8 @@
   "name": "李清照の导航主页",
   "favicon": "/favicon.ico",
   "domain": "https://remio-home.vercel.app",
-  "keywords": "李清照,AIMWARE,卡网,游戏,AW",
-  "description": "KASUIEの次元，兴趣至上，内容随缘，个人主页",
+  "keywords": "李清照,AIMWARE,卡网,游戏,AW,NL,NEVERLOSE,FAC,AWC,FATALITY,HVH",
+  "description": "李清照,AIMWARE,卡网,游戏,AW,NL,NEVERLOSE,FAC,AWC,FATALITY,HVH",
   "avatarConfig": {
     "hidden": false,
     "src": "https://s2.loli.net/2024/06/19/8zlOyDUnGjXeHpi.webp",
@@ -56,30 +56,30 @@
     "showFrom": true,
     "style": "desc",
     "gapDelay": 0.05,
-    "content": "Hello💫，这里是kasuieの主页",
-    "desc": "kasuie是自己胡乱起的，也可以叫我暖暖;已经毕业快两年半了，主要捣鼓一些前端，会点点后端，目标是成为一个温柔的全栈开发，好耶！🥰"
+    "content": "Hi~这里是李清照の到导航主页，点击你想要的内容吧",
+    "desc": "祝你生活愉快捏~"
   },
   "links": [
     {
       "title": "qq",
       "color": "#dfba00",
-      "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zIvBSvLDRr4MvqFSHcioDwS090ljUYHT&authKey=THHoVVpDZWHfnpZoNf57rDWzwrXmTWtnlN70ljCM6cG9eZ5KTIJcTxrvc7%2B7YdVI&noverify=0&group_code=793752494",
+      "url": "https://tool.gljlw.com/qq/?qq=2571781314",
       "icon": "qq"
     },
     {
       "title": "telegram",
       "color": "#1da1f2",
-      "url": "https://t.me/PixivLips",
+      "url": "https://t.me/anglekawa11",
       "icon": "telegram"
     },
     {
-      "title": "github",
+      "title": "Discord",
       "color": "#000000",
-      "url": "https://github.com/kasuie",
-      "icon": "github"
+      "url": "https://discord.gg/EfNkYFtavv",
+      "icon": "Discord"
     },
     {
-      "title": "twitter",
+      "title": "删",
       "color": "#1da1f2",
       "url": "https://twitter.com/kasuie3",
       "icon": "twitter"
@@ -87,40 +87,40 @@
     {
       "title": "email",
       "color": "#fd3232",
-      "url": "mailto:i@kasuie.cc",
+      "url": "2571781314@qq.com",
       "icon": "email"
     },
     {
       "title": "steam",
       "color": "#000000",
-      "url": "https://s.team/p/fhwd-fwbn/NWWVGPJV",
+      "url": "https://steamcommunity.com/profiles/76561199009705691/",
       "icon": "steam"
     },
     {
       "title": "bilibili",
       "color": "#0088cc",
-      "url": "https://space.bilibili.com/85447052",
+      "url": "https://space.bilibili.com/206080935",
       "icon": "bilibili"
     }
   ],
   "sites": [
     {
       "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://kasuie.cc",
-      "desc": "博客主页"
+      "title": "CS2续费卡网",
+      "url": "lqz.15sc.cc",
+      "desc": "各类Cheat续费卡密 秒到账"
     },
     {
       "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "Mio 导航",
-      "url": "https://nav.kasuie.cc",
-      "desc": "Mio 网站导航"
+      "title": "Steam帐号卡网",
+      "url": "https://www.1337fk.com//links/52238D8F",
+      "desc": "缓存/可改白号 售后全天在线"
     },
     {
       "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
-      "title": "KASUIEのAI",
-      "url": "https://ai.kasuie.cc",
-      "desc": "ChatGPT"
+      "title": "李清照茶话会4群",
+      "url": "https://qm.qq.com/q/vAo9qxLVcs",
+      "desc": "欢迎各位大神进群组车交流哦 禁广"
     },
     {
       "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
