@@ -124,9 +124,9 @@
     },
     {
       "icon": "https://cs.kasuie.cc/icons/2ccc4639-8fea-455f-a3b0-ef8073869f2a.jpg",
-      "title": "KASUIEの导航",
-      "url": "https://pixlips.github.io",
-      "desc": "导航页(beta)"
+      "title": "贞德游戏论坛",
+      "url": "hvhbbs.com",
+      "desc": "各类泄露免费公开参数 入坑必备"
     }
   ],
   "sitesConfig": {
@@ -210,9 +210,9 @@
     "column": 4
   },
   "footer": {
-    "text": "© 2020 - 2024 By KASUIE",
-    "url": "https://kasuie.cc",
-    "ICP": "ICP备xxxxxxxx号",
+    "text": "© 2020 - 2024 The Best LQZ",
+    "url": "这里不会跳转任何地方 祝您开心",
+    "ICP": "ICP备1145141337号",
     "direction": "col-reverse",
     "isExternal": true
   }
